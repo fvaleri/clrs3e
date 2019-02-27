@@ -1,0 +1,13 @@
+*.iml
+.DS_Store
+.idea
+.classpath
+.project
+.settings
+.vscode
+bin
+build
+target
+*.class
+*.jar
+*.log
